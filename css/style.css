@@ -5388,10 +5388,14 @@ blockquote cite {
 	fill: #eaebee;
 }
 
-.quote-default .quote-open,
-.quote-default .quote-close {
+.quote-default .quote-open
+{
 	position: absolute;
 	left: 30px;
+}
+.quote-default .quote-close{
+	position: absolute;
+	right: 30px;
 }
 
 .quote-default .quote-open {
