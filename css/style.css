@@ -2134,7 +2134,7 @@ html .button-ebony-clay:hover .icon.text-primary {
 	position: relative;
 	left: 50%;
 	transform: translateX(-50%);
-	width: auto;
+	/* width: auto; */
 	max-width: none;
 	min-width: 100%;
 }
